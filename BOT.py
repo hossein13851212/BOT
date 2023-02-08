@@ -1,4 +1,5 @@
-
+import os
+os.system('pip install telethon && pip install requests &&  pip install pyrogram')
 from telethon import TelegramClient, events,Button
 import asyncio
 import requests,os,asyncio
