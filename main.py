@@ -1,5 +1,5 @@
-Fruit1 = "@@@" #
-Fruit2 = "@@@" #
+Fruit1 = "f1b7e2ad6413c49e5b1719ea661a88e8" #sadi
+Fruit2 = "8f2e008b310d8d3217b5638f490ec2af" #zahra
 
 
 
